@@ -1,0 +1,34 @@
+{
+  "vector_store_id": "vs_68a58fdc87c08191b7755be64158053f",
+  "num_uploaded_files": 6,
+  "file_hashes_in_store": [
+    "68041b5980a8b308b85ea3cf7738f1512e3bd3a9e7db7a56a467be790a649873",
+    "68e447e6deb26c3724f2ae6a0ce764714dc2c34096b7c75a8aef32bdab88710a",
+    "12a8497357267ea0d8c44ede2b4393cfc27f446a5aa60d799a52d6624199340e",
+    "2dc67ca19a78bc73738a04005424708f29f8278530c81e51d3100d7c489bffe4"
+  ],
+  "existing_filenames_in_store": [
+    "2024_Annual_Report_English.pdf",
+    "Q2_2025_Financials_Arabic_v9.pdf",
+    "Q2_2025_Earnings_Call_Transcript_EN-AR.pdf",
+    "2024_Annual_Report_Arabic.pdf"
+  ],
+  "chat_history": [
+    [
+      "You",
+      "how much is zain kuwait revenue?"
+    ],
+    [
+      "AI",
+      "Zain Kuwait's revenue for the year 2024 was KD 373 million, which is approximately USD 1.2 billion. This represented a 4% year-over-year growth. Additionally, for Q2 2025, Zain Kuwait reported revenue of KD 94 million (USD 306 million), continuing to maintain strong performance in a competitive market.\n\nKey details:\n- 2024 revenue: KD 373 million (USD 1.2 billion), 4% growth YoY\n- Q2 2025 revenue: KD 94 million (USD 306 million)\n- EBITDA for 2024 was KD 139 million (USD 454 million), a 6% increase YoY\n- Zain Kuwait holds the largest 5G customer and revenue market share in Kuwait\n\nThese figures are from Zain Group's 2024 Annual Report and Q2 2025 Earnings Call Transcript ."
+    ],
+    [
+      "You",
+      "what about zain iraq ?"
+    ],
+    [
+      "AI",
+      "Zain Iraq has been operating since December 2003 and currently holds a 15-year license extended to 2030, including 4G capabilities. It is the largest mobile operator in Iraq, serving approximately 19.7 million customers with a market capitalization around USD 3.3 billion as of December 31, 2024.\n\nIn 2024, Zain Iraq delivered its best financial results in the past decade, marking a milestone year with unprecedented growth. Key highlights include:\n\n- Revenue rose 11% to USD 1.1 billion.\n- EBITDA climbed 18% to USD 441 million, with a margin of 41%.\n- Net profit increased 47% to USD 130 million.\n- Customer base grew by 10% to 19.7 million.\n- The network expanded to around 6,500 sites, including 700 new sites deployed in 2024.\n- CAPEX investment was USD 243 million, focusing on enhancing LTE coverage in major cities like Baghdad, Basra, and Anbar.\n- Network modernization included swapping 1,770 sites and expanding VoLTE coverage.\n- Introduction of AI-powered network optimization and new 4G-LTE layers that cover over 80% of the network to improve data speeds.\n- Launch of new commercial packages in September 2024 driving revenue growth.\n- Focus on digital transformation with plans to revamp the website, launch an e-shop, and enhance digital ecosystems.\n- Support for Iraq’s gaming community via esports tournaments and licenses from Tencent and Riot.\n- Launched the EVD platform to reduce manual sales operations.\n- The monthly active user base of the Zain app tripled during the year.\n- Provided support to 97 visually impaired students with monthly 100GB data bundles to aid educational access.\n\nIn the first half of 2025, Zain Iraq continued its strong performance. Revenue in Q2 2025 rose 19% year-on-year to USD 313 million, EBITDA was USD 116 million with a 37% margin, and net income reached USD 40 million. The active customer base expanded to 20.9 million, with ongoing network expansion and diversification of revenues.\n\nThe company is also focusing on increasing market share through active network deployments and strategic commercial offers despite some short-term impacts on EBITDA margins due to increased operational costs linked to growth initiatives.\n\nZain Iraq demonstrates market leadership and operational agility, with ongoing investments in infrastructure, commercial innovation, digital transformation, and community support initiatives despite challenging local conditions    ."
+    ]
+  ]
+}
